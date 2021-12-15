@@ -1,0 +1,174 @@
+
+#let{
+    text-align: center;
+    font-size: 25px;
+    font: bold;
+    font:message-box;
+    background-color:darkslategray;
+    color: ivory;
+}
+#to{
+    padding-left: 20px;
+    font-size:23px;
+
+}
+#l{
+    font-size: 20px;
+    border-style: ridge;
+    border-inline:initial ;
+    font-weight:50px;
+    letter-spacing: 0.5px;
+    font-family: fantasy;
+}
+#b{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#E34234;
+    color:whitesmoke;
+    text-align:center;
+}
+.vid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    overflow: hidden;
+    width:600px ;
+    
+}
+#list{
+    
+    border:1.5px solid rgb(5, 5, 31);
+    background-image:url(Untitled\ design.jpg);
+    margin-left: 60px;
+}
+.ol{
+    border: 1px solid  black;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:900;
+    border-collapse: collapse;
+   }
+   #bg{
+       background-image: url(images.jfif);
+    }
+    #para{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 800;
+        font-size: 25px;
+    }
+    #seh{
+        border-radius: 13px;
+    }
+    #off{
+        text-align: center;
+        font-family:fantasy;
+        font-weight: 200;
+        font-size: 25px;
+        
+        
+    }
+    #banner{
+        border-radius: 20px;
+    }
+    #or{
+        border: 2.5px solid #E34234;
+        border-radius: 5px;
+        margin-left: 60px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        font-size: 15px;
+        background-color: #E34234;
+        color: whitesmoke;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 650;
+        letter-spacing: 1px;
+    }
+iframe{
+    border-radius: 20px;
+    border:8px solid floralwhite;
+    width: 800px;
+    height: 500px;
+}
+.pic{
+    height: 500px;
+    width: 800px;
+    border-top: 10px solid ivory;
+    border-left: 10px solid ivory;
+    border-right: 10px solid ivory;
+    border-bottom: 30px solid ivory;
+    border-radius: 15px;
+}
+.form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    background-color:#E34234;
+    color: whitesmoke;
+}
+.GFG{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding:5px 3px 5px 3px;
+    font-size:18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    border-radius: 8px;
+    border: 2px solid slategray;
+}
+.countdown{
+    
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-shadow: 1px 2px  rgb(5, 3, 3) ;
+    color:  #E34234;
+}
+#days{
+    background-image: url(r.jpg);
+    border: 2px solid silver;
+    border-radius: 12px;
+    color:rgba(230, 14, 14, 0.973);
+    font-weight: 520;
+    width: 100px;
+    height: 120px;
+}
+#hours{
+    background-image: url(r.jpg);
+    border: 2px solid silver;
+    border-radius: 12px;
+    color:rgba(230, 14, 14, 0.973);
+    font-weight: 520;
+    width: 100px;
+    height: 120px;
+}
+#min{
+    background-image: url(r.jpg);
+    border: 2px solid silver;
+    border-radius: 12px;
+    color:rgba(230, 14, 14, 0.973);
+    font-weight: 520;
+    width: 100px;
+    height: 150px;
+}
+#seconds{
+    background-image: url(r.jpg);
+    border: 2px solid silver;
+    border-radius: 12px;
+    color:rgba(230, 14, 14, 0.973);
+    font-weight: 520;
+    width: 100px;
+    height: 150px;
+    
+}
+#last{
+    background-color:white;
+    color:black;
+}
+a{
+    color: whitesmoke;
+    background-color: transparent;
+    
+}
